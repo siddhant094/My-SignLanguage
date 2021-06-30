@@ -25,15 +25,3 @@ When communicating with a Deaf person from another region (dialects and signs ca
 ASL is a common sign language – though by far not the only one – for people who are d/Deaf or hard of hearing (deaf refers to the physical condition of deafness, while Deaf refers to belonging to the Deaf community). . ASL “entails five parameters: handshapes, palm orientation, location (space on the body, around the signer), movement and of course, facial expressions”
 
 Fact : About 15% of adults in America report hearing loss, and about 1 million use sign language to communicate.
-
-# Contribution Page
-
-“Every drop matters & drip fills the Ocean”                                                                            
-Contribution of every member was important otherwise what this project is … it wouldn’t have been.                     
-                                                                                             
-Animesh Yadav    -> Documentaion                                                                                       
-Arnav Agrawal    -> Html & Css                                                                                         
-Arnav khare      -> JavaScript                                                                                       
-Siddhant Pandey  -> Html & Css                                                                                         
-
-And a lot of discussions at different moments in making ok this project which remains uncounted :).
