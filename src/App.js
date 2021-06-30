@@ -87,7 +87,7 @@ class App extends Component {
               <Images text={this.state.final} />
             </div>
           </div>
-          <div className="footer">MADE WITH <img className="heart" src={heartImg} alt='heartimg' />  BY RHAPSODIC ROLLS</div>
+          <div className="footer">MADE WITH <img className="heart" src={heartImg} alt='heartimg' /></div>
         </div>
       </div>
     );
